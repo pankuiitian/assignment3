@@ -31,8 +31,7 @@ This assignment focuses on building a character-level sequence-to-sequence trans
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/da6401_assignment3/partA
-   cd da6401_assignment3/partA
+   git clone https://github.com/pankuiitian/assignment3/tree/main/pankaj_ass3
    ```
 
 
